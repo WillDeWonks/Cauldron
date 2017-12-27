@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link href="styles.css"
+  type="text/css"
+  rel="stylesheet">
+<style type="text/css">a {text-decoration: none;}</style>
+
+</head>
+
+
+
+<body>
+  <br>
+  <h1 class=main-banner>cattis drängar</h1>
+
+
+
+  <div class="left"; style=position:absolute;top:150px >
+    <ul id="nav" style=list-style-type:none;>
+
+      <li> <a href="#"> Vems barn e vi då? </a>  </li>
+      <li> <a href="https://www.facebook.com/cattisdrangar/"> Nyheter</a>     </li>
+      <li> <a href="#"> Spelningar</a>  </li>
+      <li> <a href="https://soundcloud.com/user-607932274"> Musik</a>       </li>
+      <li> <a href="#"> Videor </a>     </li>
+    </ul>
+
+  </div>
+
+  <div>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </div>
+
+
+<!---Beskrivning <style=absolute;top:300px>??--->
+  <div id="description" class="center";>
+    <h4>Cattis Drängar är en trubadurtrio från Åland. </h4>
+    <h4> Vi spelar en blandning av cover-låtar från olika tidseror. </h4>
+    <h4>Vi fixar musik till varje tillfälle! </h4>
+    <h4>Välkommen att se Dig omkring här på hemsidan! </h4>
+
+    <br>
+
+  </div>
+
+  <div style=position:absolute;top:600px;>
+    <h3 id="Kontakt">Kontakt:</h3>
+
+    <h4>Tel.:+358 457 3444 659 <br>
+    Email: cattisdrangar@gmail.com <br>
+    Instagram: cattis_drangar </h4>
+
+  </div>
+</body>
+
+
+</html>
